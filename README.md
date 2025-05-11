@@ -1,18 +1,44 @@
-### Hi, I'm Anurag Chauhan!
-👨‍🎓An undergraduate student in Production & Industrial Engineering at Delhi Technological University (DTU)<br>
-👨‍💻An aspiring data scientist eager to solve real-world problems through data-driven insights and collaboration with innovative teams.
+# Hey there, I'm Anurag Chauhan!
 
+**Aspiring Data Scientist** | Currently at DTU'27  
+Fuelled by curiosity, structured thinking, and a strong desire to turn raw data into decisions that matter.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theanuragchauhan) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+### 🧠 What I Do
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anuragchauhan21&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+- Crunch numbers and clean messy datasets  
+- Write **SQL that reads like stories**  
+- Build **Python notebooks** that actually answer business questions  
+- Visualize insights that drive action, not confusion  
+
+---
+
+### Currently
+
+- Interning as a Data Analyst at DTU’s R&D Cell  
+- Building a **real-world analytics project** end-to-end (data cleaning → storytelling)  
+- Sharpening skills in statistics, EDA, and dashboarding  
+
+---
+
+### ⚡ Skills & Expertise
+
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0085CA?style=for-the-badge&logo=Matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/-Seaborn-0067A5?style=for-the-badge&logo=seaborn&logoColor=white)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### What I’m Looking For
+
+- Summer internships in **Data Science / Analytics**  
+- Remote or Delhi(India)-based roles  
+- Opportunities where I can **own real problems** and grow fast
+
+---
+
+### ⚡ Let's Connect & Explore My Work
+I’m always open to feedback, collaboration, or just data-talk.  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theanuragchauhan) — Professional updates & networking  
+- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/<theanuragchauhan>) — Data notebooks, competitions, and insights  
+- [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/<theanuragchauhan>) — SQL (5⭐) and problem-solving profile
+---
