@@ -16,7 +16,7 @@ Fuelled by curiosity, structured thinking, and a strong desire to turn raw data 
 
 ### 📈 Currently
 
-- Interning as a Data Analyst at DTU’s R&D Cell  
+- Interning as a Data Analyst at DTU’s R&D department  
 - Building a **real-world analytics project** end-to-end (data cleaning → storytelling)  
 - Sharpening skills in statistics, EDA, and dashboarding  
 
