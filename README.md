@@ -3,16 +3,7 @@
 **Aspiring Data Scientist** | Currently at DTU'27  👨‍🎓 <br/>
 Fuelled by curiosity, structured thinking, and a strong desire to turn raw data into decisions that matter.
 
-
-
-### 🧠 What I Do
-
-- Crunch numbers and clean messy datasets  
-- Write **SQL that reads like stories**  
-- Build **Python notebooks** that actually answer business questions  
-- Visualize insights that drive action, not confusion  
-
-
+ 
 
 ### 📈 Currently
 
