@@ -17,16 +17,6 @@ Fuelled by curiosity, structured thinking, and a strong desire to turn raw data 
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0085CA?style=for-the-badge&logo=Matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/-Seaborn-0067A5?style=for-the-badge&logo=seaborn&logoColor=white)  ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-
-### 🔎  What I’m Looking For
-
-- Summer internships in **Data Science / Analytics**  
-- Remote or Delhi(India)-based roles  
-- Opportunities where I can **own real problems** and grow fast
-
-
-
 ### 🤝 Let's Connect & Explore My Work
 I’m always open to feedback, collaboration, or just data-talk.  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theanuragchauhan) — Professional updates & networking  
