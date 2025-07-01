@@ -20,5 +20,5 @@ Fuelled by curiosity, structured thinking, and a strong desire to turn raw data 
 ### 🤝 Let's Connect & Explore My Work
 I’m always open to feedback, collaboration, or just data-talk.  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theanuragchauhan) — Professional updates & networking  
-- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/<theanuragchauhan>) — Data notebooks, competitions, and insights  
-- [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/<theanuragchauhan>) — SQL (5⭐) and problem-solving profile
+- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/theanuragchauhan) — Data notebooks, competitions, and insights  
+- [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/theanuragchauhan) — SQL (5⭐) and problem-solving profile
