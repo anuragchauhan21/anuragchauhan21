@@ -9,7 +9,7 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 ## Tech Stack
 - **Data Analysis:** SQL • Python (pandas, numpy) • Excel • Power BI
 - **Data Visualization:** matplotlib • seaborn • Power BI dashboards
-- **Machine Learning:** Regression • Classification • Clustering • Model Evaluation • Scikit-learn
+- **Machine Learning:** Regression • Classification • Model Evaluation • Scikit-learn
 - **Databases:** MySQL • PostgreSQL • SQLite
 - **Version Control & Tools:** Git • GitHub • Jupyter Notebook • VS Code • Google Colab
 
