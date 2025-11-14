@@ -3,8 +3,6 @@
 ## About Me
 Data Analyst skilled in *SQL, Python, Machine Learning, Excel, and Power BI* with a strong foundation in *extracting, analyzing, and interpreting data* to generate actionable insights. I approach problems through *logic, structure, and analytical thinking* to deliver data-driven solutions that create *measurable impact*.
 
-📍 Based in `Delhi, India` 
-
 
 ## Tech Stack
 - **Data Analysis:** SQL • Python (pandas, numpy) • Excel • Power BI
