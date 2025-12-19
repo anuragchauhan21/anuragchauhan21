@@ -1,7 +1,7 @@
 # Hi, I'm Anurag
 
 ## About Me
-Data Analyst skilled in *SQL, Python, Machine Learning, Excel, and Power BI* with a strong foundation in *extracting, analyzing, and interpreting data* to generate actionable insights. I approach problems through *logic, structure, and analytical thinking* to deliver data-driven solutions that create *measurable impact*.
+Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundation in *extracting, analyzing, and interpreting data* to generate actionable insights. I approach problems through *logic, structure, and analytical thinking* to deliver data-driven solutions that create *measurable impact*.
 
 ## Featured Projects
 | Project | Description | Tools |
@@ -12,7 +12,7 @@ Data Analyst skilled in *SQL, Python, Machine Learning, Excel, and Power BI* wit
 > Each project focuses on **real-world data problems**, clear methodology, and **actionable insights**.
 
 ## Tech Stack
-- **Data Analysis:** SQL • Python (Pandas, NumPy, Scikit-learn) • Excel • Power BI • Machine Learning
+- **Data Analysis:** SQL • Python (Pandas, NumPy) • Excel • Power BI
 - **Data Visualization:** matplotlib • seaborn • Power BI dashboards
 - **Databases:** MySQL • PostgreSQL • SQLite
 - **Tools:** Jupyter Notebook • VS Code • Google Colab
