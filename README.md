@@ -6,7 +6,7 @@ Data Analyst skilled in *SQL, Python, Machine Learning, Excel, and Power BI* wit
 ## Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Customer Churn Analysis](https://github.com/anuragchauhan21/customer-churn-analysis) | Performed churn analysis, prediction, and revenue-risk estimation, supported by an interactive Power BI dashboard for decision-focused insights. | Python, Power BI, Machine Learning |
+| [Customer Churn Analysis](https://github.com/anuragchauhan21/customer-churn-analysis) | Performed churn analysis, prediction, and revenue-risk estimation, supported by an interactive Power BI dashboard for decision-focused insights. | Python, Power BI |
 | [Restaurant Success Analysis](https://github.com/anuragchauhan21/yelp-restaurant-success-analysis) | A data-driven exploration of restaurant data to uncover trends in user engagement, ratings, elite user impact, peak hours, and city-wise success metrics. | SQL, Python |
 
 > Each project focuses on **real-world data problems**, clear methodology, and **actionable insights**.
