@@ -6,7 +6,7 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 ## Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Revenue Concentration Analysis](https://github.com/anuragchauhan21/Revenue-Concentration-Analysis) | Assess whether the business is financially dependent on one-time customers by quantifying their revenue contribution compared to repeat customers. | SQL, Python |
+| [Revenue Concentration Analysis](https://github.com/anuragchauhan21/Revenue-Concentration-Analysis) | Assess whether the business is financially dependent on customers who purchase only once by quantifying their revenue contribution compared to repeat customers. | SQL, Python |
 | [Customer Churn Analysis](https://github.com/anuragchauhan21/customer-churn-analysis) | Performed churn analysis, prediction, and revenue-risk estimation, supported by an interactive Power BI dashboard for decision-focused insights. | Python, Power BI |
 
 > Each project focuses on **real-world data problems**, clear methodology, and **actionable insights**.
