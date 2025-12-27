@@ -29,4 +29,5 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 ## Certifications & Achievements
 - SQL (Intermediate) Certification — HackerRank (2025)
 - SQL 5-Star Problem Solving Badge — HackerRank (2025)
+- SQL50 Badge — Leetcode (2025)
 - AWS Educate ML Foundations Badge — [Credly](https://www.credly.com/badges/24959cea-caed-456a-a768-69030a16efe1/public_url)
