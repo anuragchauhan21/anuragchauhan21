@@ -6,14 +6,13 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 ## Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
+| [Revenue Leakage Analysis](https://github.com/anuragchauhan21/revenue_leakage_analysis) | Analyzed an e commerce business to find **where revenue is leaking**. Focused on customer retention, delivery experience, and operational losses. | SQL, Python |
 | [Customer Churn Analysis](https://github.com/anuragchauhan21/customer-churn-analysis) | Performed churn analysis, prediction, and revenue-risk estimation, supported by an interactive Power BI dashboard for decision-focused insights. | Python, Power BI |
-| [Restaurant Success Analysis](https://github.com/anuragchauhan21/yelp-restaurant-success-analysis) | A data-driven exploration of restaurant data to uncover trends in user engagement, ratings, elite user impact, peak hours, and city-wise success metrics. | SQL, Python |
 
 > Each project focuses on **real-world data problems**, clear methodology, and **actionable insights**.
 
 ## Tech Stack
-- **Data Analysis:** SQL • Python (Pandas, NumPy) • Excel • Power BI
-- **Data Visualization:** matplotlib • seaborn • Power BI dashboards
+- **Data Analysis:** SQL • Python (Pandas, NumPy, matplotlib, seaborn) • Excel • Power BI
 - **Databases:** MySQL • PostgreSQL • SQLite
 - **Tools:** Jupyter Notebook • VS Code • Google Colab
 
@@ -27,7 +26,7 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 - [Kaggle](https://www.kaggle.com/theanuragchauhan/): Sharing my learnings
 
 ## Certifications & Achievements
-- SQL (Intermediate) Certification — HackerRank (2025)
-- SQL 5-Star Problem Solving Badge — HackerRank (2025)
-- SQL50 Badge — Leetcode (2025)
+- SQL (Intermediate) Certification — [HackerRank](https://www.hackerrank.com/certificates/4da32cd9f0e0) (2025)
+- SQL 5-Star Problem Solving Badge — [HackerRank](https://www.hackerrank.com/profile/theanuragchauhan) (2025)
+- SQL50 Badge — [Leetcode](https://leetcode.com/u/theanuragchauhan/) (2025)
 - AWS Educate ML Foundations Badge — [Credly](https://www.credly.com/badges/24959cea-caed-456a-a768-69030a16efe1/public_url)
