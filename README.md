@@ -9,15 +9,10 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 | [Revenue Leakage Analysis](https://github.com/anuragchauhan21/revenue_leakage_analysis) | Analyzed an e commerce business to find **where revenue is leaking**. Focused on customer retention, delivery experience, and operational losses. | SQL, Python |
 | [Customer Churn Analysis](https://github.com/anuragchauhan21/customer-churn-analysis) | Performed churn analysis, prediction, and revenue-risk estimation, supported by an interactive Power BI dashboard for decision-focused insights. | Python, Power BI |
 
-> Each project focuses on **real-world data problems**, clear methodology, and **actionable insights**.
-
 ## Tech Stack
 - **Data Analysis:** SQL • Python (Pandas, NumPy, matplotlib, seaborn) • Excel • Power BI
 - **Databases:** MySQL • PostgreSQL • SQLite
 - **Tools:** Jupyter Notebook • VS Code • Google Colab
-
-> Constantly refining my toolkit through projects and challenges.
-
 
 ## Analytics Playground
 **Coding Practice & Problem Solving:**
