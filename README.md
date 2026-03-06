@@ -17,8 +17,8 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 ## Analytics Playground
 **Coding Practice & Problem Solving:**
 -  [HackerRank](https://www.hackerrank.com/profile/theanuragchauhan): Gold Badge in SQL, Intermediate SQL Certificate, Bronze Badge in Python
--  [LeetCode](https://leetcode.com/u/theanuragchauhan/): SQL 50 questions practice
-- [Kaggle](https://www.kaggle.com/theanuragchauhan/): Sharing my learnings through projects
+-  [LeetCode](https://leetcode.com/u/theanuragchauhan/): SQL50 questions practice
+- [Kaggle](https://www.kaggle.com/theanuragchauhan/): Sharing my learnings projects and practice notebooks
 
 ## Certifications & Achievements
 - SQL (Intermediate) Certification — [HackerRank](https://www.hackerrank.com/certificates/4da32cd9f0e0) (2025)
