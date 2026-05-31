@@ -8,7 +8,7 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 |----------|--------------|-------|
 | [Revenue Leakage Analysis](https://github.com/anuragchauhan21/revenue_leakage_analysis) | Analyzed an e-commerce business to find where revenue is leaking. Focused on customer retention, delivery experience, and operational losses. | SQL, Python, Power BI |
 | [Customer Churn Analysis](https://github.com/anuragchauhan21/customer-churn-analysis) | Performed churn analysis, prediction, and revenue-risk estimation, supported by an interactive Power BI dashboard for decision-focused insights. | Python, Machine Learning, Power BI |
-| [Housing Valuation & Market Intelligence Analytics](https://github.com/anuragchauhan21/california-housing-valuation-analytics) | Built a housing valuation and market analytics system to estimate house prices, analyse pricing drivers, and compare ML models using geographic, economic, and housing features. | Python, Machine Learning |
+| [Housing Valuation & Market Intelligence Analytics](https://github.com/anuragchauhan21/house-price-prediction) | Built a housing valuation and market analytics system to estimate house prices, analyse pricing drivers, and compare ML models using geographic, economic, and housing features. | Python, Machine Learning |
 
 ## Tech Stack
 - **Data Analysis:** SQL • Python (Pandas, NumPy, matplotlib, seaborn, scikit-learn) • Excel • Power BI
