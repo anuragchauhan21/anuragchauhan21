@@ -27,3 +27,4 @@ Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundat
 - SQL50 Badge — [Leetcode](https://leetcode.com/u/theanuragchauhan/) (2025)
 - AWS Educate ML Foundations Badge — [Credly](https://www.credly.com/badges/24959cea-caed-456a-a768-69030a16efe1/public_url)
 - Introducing Generative AI with AWS — [Udacity](https://www.udacity.com/certificate/e/863bd068-5504-11f0-b1d7-477272d8b2a3)
+- Pandas — [Kaggle](https://www.kaggle.com/learn/certification/theanuragchauhan/pandas)
