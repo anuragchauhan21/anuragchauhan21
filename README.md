@@ -1,13 +1,14 @@
 # Hi, I'm Anurag
 
 ## About Me
-Data Analyst skilled in *SQL, Python, Excel, and Power BI* with a strong foundation in *extracting, analyzing, and interpreting data* to generate actionable insights. I approach problems through *logic, structure, and analytical thinking* to deliver data-driven solutions that create *measurable impact*.
+I work on analytics projects using **SQL, Python, Excel, and Power BI** to extract, analyze, and interpret data into **clear, actionable insights**. My approach is based on **logic, structure, and analytical thinking** to understand business problems and support better data-driven decisions.
 
 ## Featured Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [Revenue Leakage Analysis](https://github.com/anuragchauhan21/revenue_leakage_analysis) | Analyzed an e-commerce business to find where revenue is leaking. Focused on customer retention, delivery experience, and operational losses. | SQL, Python, Power BI |
-| [Customer Churn Analysis](https://github.com/anuragchauhan21/customer-churn-analysis) | Performed churn analysis, prediction, and revenue-risk estimation, supported by an interactive Power BI dashboard for decision-focused insights. | Python, Machine Learning, Power BI |
+| Project   | Description   | Tools      |
+| --- | --- | --- |
+| Revenue Leakage Analysis | Investigated revenue loss across an e-commerce business by analyzing customer repeat behavior, delivery performance, cancellations, and operational gaps. Identified key leakage points and prioritized areas affecting revenue stability and long-term growth. | SQL, Python, Power BI |
+| Customer Churn Analysis  | Analyzed customer churn patterns to identify high-risk customer segments, key churn drivers, and revenue exposure. Estimated revenue at risk and translated findings into retention-focused business recommendations.  | Python, Machine Learning, Power BI |
+
 
 ## Tech Stack
 - **Data Analysis:** SQL • Python (Pandas, NumPy, matplotlib, seaborn, scikit-learn) • Excel • Power BI
