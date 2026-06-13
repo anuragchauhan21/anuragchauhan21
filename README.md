@@ -6,14 +6,13 @@ I work on analytics projects using **SQL, Python, Excel, and Power BI** to extra
 ## Featured Projects
 | Project   | Description   | Tools      |
 | --- | --- | --- |
-| Revenue Leakage Analysis | Investigated revenue loss across an e-commerce business by analyzing customer repeat behavior, delivery performance, cancellations, and operational gaps. Identified key leakage points and prioritized areas affecting revenue stability and long-term growth. | SQL, Python, Power BI |
-| Customer Churn Analysis  | Analyzed customer churn patterns to identify high-risk customer segments, key churn drivers, and revenue exposure. Estimated revenue at risk and translated findings into retention-focused business recommendations.  | Python, Machine Learning, Power BI |
+| [Revenue Leakage Analysis](https://github.com/anuragchauhan21/revenue_leakage_analysis) | Investigated revenue loss across an e-commerce business by analyzing customer repeat behavior, delivery performance, cancellations, and operational gaps. Identified key leakage points and prioritized areas affecting revenue stability and long-term growth. | SQL, Python, Power BI |
+| [Customer Churn Analysis](https://github.com/anuragchauhan21/Customer-Churn-Analysis)  | Analyzed customer churn patterns to identify high-risk customer segments, key churn drivers, and revenue exposure. Estimated revenue at risk and translated findings into retention-focused business recommendations.  | Python, Machine Learning, Power BI |
 
 
 ## Tech Stack
 - **Data Analysis:** SQL • Python (Pandas, NumPy, matplotlib, seaborn, scikit-learn) • Excel • Power BI
-- **Machine Learning:** Scikit-learn • Regression Models • Classification Models • Feature Engineering • Model Evaluation  
-- **Databases:** MySQL • PostgreSQL • SQLite
+- **Machine Learning:** Regression Models • Classification Models • Feature Engineering • Model Evaluation  
 - **Tools:** Jupyter Notebook • VS Code • Google Colab
 
 ## Analytics Playground
