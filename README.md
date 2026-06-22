@@ -7,7 +7,7 @@ I work on analytics projects using **SQL, Python, Excel, and Power BI** to extra
 | Project   | Description   | Tools      |
 | --- | --- | --- |
 | [Revenue Risk Analysis](https://github.com/anuragchauhan21/Revenue_Risk_Analysis) | Analyzed Olist e-commerce data using SQL and Python to quantify revenue risk in customer retention, delivery delays, and order cancellations. | SQL, Python |
-| [Customer Churn Analysis](https://github.com/anuragchauhan21/Customer-Churn-Analysis)  | Analyzed customer churn patterns to identify high-risk customer segments, key churn drivers, and revenue exposure. Estimated revenue at risk and translated findings into retention-focused business recommendations.  | Python, Machine Learning, Power BI |
+| [Retention Risk Analysis](https://github.com/anuragchauhan21/Retention-Risk-Analysis)  | Analyzed customer churn patterns to identify high-risk customer segments, key churn drivers, and revenue exposure. Estimated revenue at risk and translated findings into retention-focused business recommendations.  | Python, Machine Learning, Power BI |
 
 
 ## Tech Stack
