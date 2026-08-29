@@ -6,7 +6,7 @@ I work on analytics projects using **SQL, Python, Excel, and Power BI** to extra
 ## Featured Projects
 | Project   | Description   | Tools      |
 | --- | --- | --- |
-| [Revenue Risk Analysis](https://github.com/anuragchauhan21/Revenue_Risk_Analysis) | Analyzed Olist e-commerce data using SQL and Python to quantify revenue risk in customer retention, delivery delays, and order cancellations. | SQL, Python |
+| [Customer Retention & Delivery Risk Analysis](https://github.com/anuragchauhan21/Revenue_Risk_Analysis) | Analyzed Olist e-commerce data to quantify revenue risk in customer retention, delivery delays, and order cancellations. | SQL, Python, Power BI |
 | [Customer Retention Risk Analysis](https://github.com/anuragchauhan21/Retention-Risk-Analysis)  | Analyzed customer churn patterns to identify high-risk customer segments, key churn drivers, and revenue exposure. Estimated revenue at risk and translated findings into retention-focused business recommendations.  | Python, Machine Learning, Power BI |
 | [Consumer Complaint Classification using NLP](https://github.com/anuragchauhan21/consumer-complaint-classification-nlp) | Built an NLP pipeline to classify `383K+` consumer complaint narratives into `11` financial product categories. Compared classical ML with BERT and selected the most practical approach under local computational constraints. | Python, NLP, Scikit-learn, BERT |
 
